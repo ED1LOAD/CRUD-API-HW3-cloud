@@ -1,0 +1,40 @@
+.form {
+	display: flex;
+	margin-top: 120px;
+	margin-left: 32px;
+}
+
+.form-text {
+	margin-top: 20px;
+	margin-left: 118px;
+}
+
+.main-text {
+	display: flex;
+	flex-direction: column;
+	margin-top: 20px;
+	font-size: 16px;
+}
+
+.text-style {
+	width: 562px;
+	font-size: 16px;
+}
+
+.button {
+	margin-top: 20px;
+	font-size: 16px;
+	width: 176px;
+	height: 46px;
+	color: white;
+	background-color: #212529;
+  }
+
+  .apps {
+	margin-top: 50px;
+  }
+
+  .pic {
+	width: 450px;
+	height: 480px;
+  }

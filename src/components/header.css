@@ -1,0 +1,15 @@
+.header {
+	display: grid;
+	grid-template-columns: 3fr 1.5fr 0.7fr;
+	font-size: 17px;
+	padding-left: 32px;
+}
+
+.vector {
+	padding-top: 20px;
+	height: 50%;
+}
+
+.number {
+	margin-top: 10px;
+}

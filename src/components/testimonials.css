@@ -1,0 +1,40 @@
+.testimonials {
+	margin-top: 60px;
+	margin-left: 32px;
+}
+
+.all-testimonials {
+	display: flex;
+	gap: 20px;
+}
+
+.testimonial {
+	display: flex;
+	flex-direction: column;
+	width: 445px;
+	height: 327px;
+	border-style: solid;
+	border-width: 2px;
+	align-items: center;
+	text-align: center;
+}
+
+.testimonial>img {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	width: 40px;
+}
+
+.people {
+	margin-top: 18px;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.main {
+	margin-top: 20px;
+	width: 300px;
+	font-size: 16px;
+	text-align: center;
+}
